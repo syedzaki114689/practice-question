@@ -1,0 +1,2 @@
+# practice-question
+Q: You have to develop a PROGRAM (in any programming language) that takes a TEXT file (.txt) and performs the following tasks:    1: Remove WHITE SPACES (more than one at any point - two or more) and any thing which is in PARENTHESIS ( )  2: Generate TOKENS for PRONOUNS, ARTICLES, and PUNCTUATIONS MARKS (e.g.  for 'a' -> &lt;article, A>, for : -> &lt;punc, COLON>)    OUTPUT: the program should generate a new TEXT file (.txt) containing tokens and the remaining text (e.g. output.txt)    The input file should contain at least 300 words. 
